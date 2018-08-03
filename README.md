@@ -1,4 +1,9 @@
-# Tree-Grid-method for solving HJB equation
+# Tree-Grid-method for solving Stochastic control problems & the HJB equation
+Related papers:
+- https://www.imacm.uni-wuppertal.de/fileadmin/imacm/preprints/2017/imacm_17_06.pdf
+- https://www.imacm.uni-wuppertal.de/fileadmin/imacm/preprints/2017/imacm_17_13.pdf
+- https://www.imacm.uni-wuppertal.de/fileadmin/imacm/preprints/2018/imacm_18_02.pdf
+Repository contents:
 - Tree-Grid.ipynb -implementation of the (1D) Tree-Grid method with examples (uncertain volatility model, passport option pricing model). Solution is the last time layer.
 - Tree-Grid-Full.ipynb -implementation of the (1D) Tree-Grid method with examples (uncertain volatility model, passport option pricing model). Solution is the whole time-space domain.
 - Tree-Grid-2D.ipynb -implementation of the 2D Tree-Grid method with examples (two-factor uncertain volatility model). Solution is last time layer (2D space domain).
